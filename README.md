@@ -1,5 +1,5 @@
 # QIDI X-CF_Pro BondTech LGX Ace Printhead
-Files to convert X-CF Pro to using: 
+Files to convert X-CF-Pro to using following hardware and using Klipper 
 
 Bontech LGX extruder
 
