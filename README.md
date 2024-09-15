@@ -1,7 +1,7 @@
 # QIDI X-CF_Pro BondTech LGX Ace Printhead
 Files to convert X-CF Pro to using: 
 
-Bontech LGX extruder
+1: Bontech LGX extruder
 BondTech/Slice Ace Mosquito Hotend
 BIGTREETECH Manta M8P MCU V2.0
 BIGTREETECH CB1 EMMC 32GB Klipper Host
