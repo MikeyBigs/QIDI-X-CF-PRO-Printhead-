@@ -27,7 +27,9 @@ Platinum RTD Pt1000 Sensor by Slice Engineering
 
 50W 24V 3D Printer Heater Cartridge by Slice Engineering 
 
+Variety kit of M3 sockethead self taping screws. 
 
+JST Connector crimping pliers to crimp switch wires and CANBus cable. 
 
 
 
